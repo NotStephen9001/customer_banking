@@ -37,3 +37,4 @@ def main():
     print(f"Updated CD Balance: ${cd_result['Updated Balance']:.2f}")
 if __name__ == "__main__":
     # Call the main function.
+    main()
